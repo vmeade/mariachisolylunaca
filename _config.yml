@@ -18,21 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mariachi Sol y Luna CA 
-email: your-email@example.com
+title: Mariachi Sol y Luna
+logo: /mariachisolylunaca/assets/images/logo.jpg
+email: Mariachisolylunaca@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Traditional Mariachi music for the South Bay Area, from San Francisco to San Jose, also the areas of Morgan Hill, Gilroy, and Watsonville. Ofrece su música al Área de la Bahía desde San Francisco hasta San José. También incluye las áreas de Morgan Hill, Gilroy, y Watsonville.
+
 baseurl: "/mariachisolylunaca" # the subpath of your site, e.g. /blog
 url: "https://vmeade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#:layout: default
+plugins: []
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
