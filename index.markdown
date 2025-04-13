@@ -7,7 +7,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="/mariachisolylunaca/assets/images/IMG_5492.jpg" alt="Mariachi Sol y Luna" style="max-width: 300px;">
+  <img src="{{ site.baseurl }}/assets/images/IMG_5492.jpg" alt="Mariachi Sol y Luna" style="max-width: 300px;">
 </p>
 
 
