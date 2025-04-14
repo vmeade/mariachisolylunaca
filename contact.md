@@ -61,6 +61,6 @@ body {
   <img src="{{ '/assets/images/IMG_3935.JPG' | relative_url }}" alt="Image 2">
   <img src="{{ '/assets/images/IMG_3939.JPG' | relative_url }}" alt="Image 3">
 </div>
-
+<img src="assets/images/IMG_3933~2.JPG" alt="Image 1">
 
 
