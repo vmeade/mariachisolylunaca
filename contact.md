@@ -57,10 +57,9 @@ body {
   <p><strong><a href="mailto:mariachisolylunaca@gmail.com">mariachisolylunaca@gmail.com</a></strong></p>
 </div>
 <div class="contact-header">
-  <img src="{{ '/assets/images/IMG_3933~2.JPG' | relative_url }}" alt="Image 1">
-  <img src="{{ '/assets/images/IMG_3935.JPG' | relative_url }}" alt="Image 2">
-  <img src="{{ '/assets/images/IMG_3939.JPG' | relative_url }}" alt="Image 3">
+  <img src="{{ '/assets/images/IMG_3933~2.jpg' | relative_url }}" alt="Image 1">
+  <img src="{{ '/assets/images/IMG_3935.jpg' | relative_url }}" alt="Image 2">
+  <img src="{{ '/assets/images/IMG_3939.jpg' | relative_url }}" alt="Image 3">
 </div>
-<img src="assets/images/IMG_3933~2.JPG" alt="Image 1">
 
 
